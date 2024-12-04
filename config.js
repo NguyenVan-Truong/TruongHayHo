@@ -11,9 +11,10 @@ const CONFIG = {
   btnNo: "Không, Anh trai à :3",
   question: "Trên thế giới hơn 8 tỉ người mà sao em lại yêu anh <3",
   btnReply: "Gửi cho anh <3",
-  reply: "Thực ra thì tui cũm iu Nguyễn Văn Trường từ lâu rồi á , Trường có biết hum nè :333",
+  reply:
+    "Thực ra thì tui cũm iu Lê Thị Thanh Thuý từ lâu rồi á , Thuý có biết hum nè :333",
   mess: "Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘",
   messDesc: "Tối nay 7h anh qua đón nhé công chúa.",
   btnAccept: "Okiiiii lun <3",
-  messLink: "https://www.facebook.com/NguyenVanTruong.2106",
+  messLink: "https://www.facebook.com/profile.php?id=100079210016863",
 };
